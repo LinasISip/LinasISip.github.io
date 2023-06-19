@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mano naujas puslapis</title>
+    
+    
+    
+    <link>https://linas.github.io/</link>
+    <description>Recent content on Mano naujas puslapis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2023 00:15:11 +0300</lastBuildDate>
+    
+	<atom:link href="https://linas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puslapis</title>
+      <link>https://linas.github.io/posts/linas/</link>
+      <pubDate>Tue, 20 Jun 2023 00:15:11 +0300</pubDate>
+      
+      <guid>https://linas.github.io/posts/linas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Tai yra naujas mano puslapis. Tikiuosi 10 bus!
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
