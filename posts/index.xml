@@ -15,11 +15,53 @@
     
     
     <item>
+      <title>Naujas</title>
+      <link>https://linas.github.io/posts/naujas/</link>
+      <pubDate>Tue, 20 Jun 2023 00:15:11 +0300</pubDate>
+      
+      <guid>https://linas.github.io/posts/naujas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Regis čia kažkas ne taip..
+Svarbiausia tikėti!
+func main() { fmt.Println(&amp;#34;Sveiki!&amp;#34;) } 
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Puslapis</title>
       <link>https://linas.github.io/posts/linas/</link>
       <pubDate>Tue, 20 Jun 2023 00:15:11 +0300</pubDate>
       
       <guid>https://linas.github.io/posts/linas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Tai yra naujas mano puslapis. Tikiuosi 10 bus!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Puslapis</title>
+      <link>https://linas.github.io/posts/linasveiks/</link>
+      <pubDate>Tue, 20 Jun 2023 00:15:11 +0300</pubDate>
+      
+      <guid>https://linas.github.io/posts/linasveiks/</guid>
       <description>
         
           
